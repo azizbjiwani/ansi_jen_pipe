@@ -1,2 +1,2 @@
 [myservers]
-3.84.47.56 ansible_user=ubuntu ansible_ssh_private_key_file=/home/ubuntu/.ssh/key.pem
+34.201.173.175 ansible_user=ubuntu ansible_ssh_private_key_file=/home/ubuntu/.ssh/key.pem
